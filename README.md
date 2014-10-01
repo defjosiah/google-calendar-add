@@ -12,7 +12,7 @@ each group to have a shared calendar with that info.
 Developed as a utility for RiceU's Orientation Week. Planning for each event for
 the week was done in a Google Document in the following format: 
 
----insert picture of sample---
+[Sample GDoc View!](images/gdoc-example.md)
 
 When downloaded as a text file from Google Docs, the format is as follows:
 
